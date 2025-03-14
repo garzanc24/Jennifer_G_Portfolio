@@ -29,7 +29,7 @@
 - **Data Collection & Processing** – Extracted, cleaned, and transformed patient no-show data using Pandas, SQL, and Power Query.
 - **Exploratory Data Analysis (EDA)** – Conducted statistical analysis, visualized trends with Matplotlib/Seaborn, and identified class imbalances.
 - **Machine Learning Modeling** – Built a Random Forest Classifier, optimized hyperparameters with Grid Search CV, applied PCA & SMOTE, and evaluated performance with Precision, Recall, F1-score.
-- **MLOps & Reproducibility** – Tracked experiments and models using MLflow & Weights & Biases (W&B), maintained version control with GitHub, and structured workflows in Jupyter Notebooks.
+- **MLOps & Reproducibility** – Maintained version control with GitHub, and structured workflows in Jupyter Notebooks.
 - **Reporting & Insights** – Created visualizations, summarized findings in PowerPoint & structured reports, and highlighted key metrics for decision-making.
 
 ### 🔹 [ML for DevOps: Deploying-a-Scalable-ML-Pipeline-with-FastAPI](https://github.com/garzanc24/Deploying-a-Scalable-ML-Pipeline-with-FastAPI)
