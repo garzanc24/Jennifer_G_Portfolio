@@ -32,7 +32,7 @@
 - **MLOps & Reproducibility** – Tracked experiments and models using MLflow & Weights & Biases (W&B), maintained version control with GitHub, and structured workflows in Jupyter Notebooks.
 - **Reporting & Insights** – Created visualizations, summarized findings in PowerPoint & structured reports, and highlighted key metrics for decision-making.
 
-### 🔹 [ML for DevOps: Deploying-a-Scalable-ML-Pipeline-with-FastAPI](https://github.com/garzanc24/Deploying-a-Scalable-ML-Pipeline-with-FastAPI))
+### 🔹 [ML for DevOps: Deploying-a-Scalable-ML-Pipeline-with-FastAPI](https://github.com/garzanc24/Deploying-a-Scalable-ML-Pipeline-with-FastAPI)
 - Built a **classification model** using Census Bureau data
 - Integrated **MLflow & W&B** for experiment tracking
 - Developed a **FastAPI** RESTful API for inference
