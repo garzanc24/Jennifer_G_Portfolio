@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 # 👋 Hi, I'm Jenn Garza!
 
 🚀 **Data & Machine Learning Enthusiast | Power BI Analyst **
